@@ -8,7 +8,9 @@
 # Versão homologada: zabbix_agent-5.0.16-windows-amd64
 #>
 #Requires -Version 5 
+Set-executionPolicy bypass -force
 
+#necessário para executar o script via GPO 
 
 
 
