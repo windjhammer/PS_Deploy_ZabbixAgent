@@ -16,7 +16,7 @@
 $ZABBIX_INSTALL_DIR = 'C:\zabbix'
 
 # Zabbix server / proxy address
-$ZABBIX_SERVER = "172.16.2.1"
+$ZABBIX_SERVER = "192.168.9.173"
 
 
 # Zabbix download URL
